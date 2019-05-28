@@ -38,7 +38,7 @@ SCW_SPR_partisan_castille_tooltip:0 "두개의 파르티잔 사단이 카스티�
 SCW_SPR_partisan_leon_tooltip:0 "두개의 파르티잔 사단이 레온에서 봉기할것입니다"
 
 #Ideas
-SCW_idea:0 "The Spanish Civil War"
+SCW_idea:0 "스페인 내전"
 SCW_idea_desc:0 "The Spanish Civil war which began in 1935 has thrown Spain into utter chaos, and we've been thrown into the fire. We must come out victorious, for a better Spain!"
 
 SCW_SPM_no_support:0 "Support Cut-Off"
@@ -51,7 +51,7 @@ SCW_SPM_support_regained:0 "Support Regained"
 SCW_SPM_support_regained_desc:0 "The United Kingdom has made the wise decision to support our government in the civil war once again, resulting in a surge of strength. We must use this oppurtunity while it lasts!"
 
 #Events
-scw.1.t:0 "The Republic Destroyed"
+scw.1.t:0 "공화국이 "
 scw.1.d:0 "The Spanish Civil War has left our favor, with the Spanish Republic which controlled Madrid falling not long ago. The rebel movements have begun to move into Tangiers, but our very close proximity to it can cut off the rebel forces, and allow us to start a Republican government in exile in Tangiers. However, doing so will hurt relations with the victor of the war, but allows us to have a claim to the region."
 
 scw.2.t:0 "The Civil War Ends"
