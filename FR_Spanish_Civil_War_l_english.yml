@@ -51,7 +51,7 @@ SCW_SPM_support_regained:0 "Support Regained"
 SCW_SPM_support_regained_desc:0 "The United Kingdom has made the wise decision to support our government in the civil war once again, resulting in a surge of strength. We must use this oppurtunity while it lasts!"
 
 #Events
-scw.1.t:0 "공화국이 "
+scw.1.t:0 "공화국이 붕괴되다"
 scw.1.d:0 "The Spanish Civil War has left our favor, with the Spanish Republic which controlled Madrid falling not long ago. The rebel movements have begun to move into Tangiers, but our very close proximity to it can cut off the rebel forces, and allow us to start a Republican government in exile in Tangiers. However, doing so will hurt relations with the victor of the war, but allows us to have a claim to the region."
 
 scw.2.t:0 "The Civil War Ends"
